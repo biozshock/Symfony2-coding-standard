@@ -1,0 +1,8 @@
+{
+    "name": "opensky/Symfony2-coding-standard",
+    "type": "symfony-bundle",
+    "description": "A code standard to check against the Symfony coding standards",
+    "keywords": ["coding standard"],
+    "homepage": "https://github.com/opensky/Symfony2-coding-standard",
+    "target-dir": "standarts/Symfony2"
+}
